@@ -1,1 +1,1 @@
-http://ott.js.chinamobile.com/PLTV/3/224/3221227207/index.m3u8
+CCTV2,http://ott.js.chinamobile.com/PLTV/3/224/3221227207/index.m3u8
