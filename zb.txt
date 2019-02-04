@@ -122,3 +122,4 @@ Newtv完美游戏,http://ott.js.chinamobile.com/PLTV/3/224/3221225539/index.m3u8
 Newtv中国搏击,http://ott.js.chinamobile.com/PLTV/3/224/3221226656/index.m3u8
 Newtv中国功夫,http://ott.js.chinamobile.com/PLTV/3/224/3221226935/index.m3u8
 SDETV,http://ott.js.chinamobile.com/PLTV/3/224/3221225614/index.m3u8
+央视4k,http://117.148.187.83/PLTV/88888888/224/3221226539/index.m3u8
